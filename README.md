@@ -9,10 +9,10 @@ The complaint management system is a user-friendly and efficient solution for ha
 
 Keywords: PHP, HTML, CSS, java script,MYSQL
 
-## System Requirements  \
-  Software Requirements \
-• HTML,CSS \
-• JAVASCRIPT \
+## System Requirements  
+  Software Requirements <br>
+• HTML,CSS <br>
+• JAVASCRIPT 
 • PHP \
 • MYSQL
   Hardware Requirements
