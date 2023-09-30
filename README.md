@@ -12,11 +12,11 @@ Keywords: PHP, HTML, CSS, java script,MYSQL
 ## System Requirements  
   Software Requirements <br>
 • HTML,CSS <br>
-• JAVASCRIPT 
-• PHP \
-• MYSQL
+• JAVASCRIPT <br>
+• PHP <br>
+• MYSQL <br>
   Hardware Requirements
-• RAM: 4GB above
+• RAM: 4GB above <br>
 • Hard disk: 500 GB above
 
 ## HOME PAGE
