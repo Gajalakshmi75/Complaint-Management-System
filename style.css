@@ -1,0 +1,121 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+.heading{
+    height:350px;
+    font-size: 90px;
+    color: #d4af37;
+    padding-top: 90px;
+    padding-left: 80px;
+}
+body{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url("./Rect\ Light.jpg");
+}
+footer{
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    position: absolute;
+    bottom: 16px;
+    right:16px;
+    font-size: 18px;
+
+}
+img{
+    float: right;
+    height:400px;
+    width:500px;
+}
+
+ span a{
+    text-decoration: none;
+    color:#ff2e2e;
+}
+
+.student{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    
+}
+.main a{
+    position: relative;
+    padding: 35px 70px;
+    background: white;
+    color:#fc46aa;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 1.5rem;
+    letter-spacing: 2px;
+    transition: 0.5s;
+    clip-path: polygon(90% 0,100% 50%,90% 100%,0% 100%,10% 50%,0% 0%);    
+}
+
+.main a:hover{
+    background: #000073;
+    color:white;
+    letter-spacing: 4px;
+    clip-path: polygon(100% 0,90% 50%,100% 100%,10% 100%,0% 50%,10% 0);
+}
+
+.nav-bar{
+    background: #022168;
+    text-align: right;
+    font-size: 18px;
+    font-weight: 500;
+}
+.nav-bar ul{
+    display: inline-flex;
+    list-style: none;
+    color:white;
+}
+.nav-bar ul li {
+    width:150px;
+    margin:10px;
+    padding: 13px;
+}
+.nav-bar ul li a{
+    text-decoration: none;
+    color:#fff;
+}
+
+.nav-bar ul li a:hover{
+    color:rgb(243, 9, 48);
+    transition: all 0.3s ease 0s;
+}
+
+.menu{
+    display: none;
+
+}
+.nav-bar ul li:hover .menu{
+    display: block;
+    position: absolute;
+    background-color: navy;
+    margin-top: 15px;
+    margin-left: -15px;
+}
+.nav-bar ul li:hover .menu ul{
+    display: block;
+    margin: 15px;
+    
+}
+.nav-bar ul li:hover .menu ul li{
+    width:150px;
+    padding: 10px;
+    border-bottom: 1px dotted #fff;
+    background: transparent;
+    border-radius: 0;
+    text-align: left;
+}
+.nav-bar ul li:hover .menu ul li:last-child{
+    border-bottom: none;
+}
+.nav-bar ul li:hover .menu ul li a:hover{
+    color:red;
+}
