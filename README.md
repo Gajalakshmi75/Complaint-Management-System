@@ -15,7 +15,7 @@ Keywords: PHP, HTML, CSS, java script,MYSQL
 • JAVASCRIPT <br>
 • PHP <br>
 • MYSQL <br>
-  Hardware Requirements
+  Hardware Requirements <br>
 • RAM: 4GB above <br>
 • Hard disk: 500 GB above
 
