@@ -34,6 +34,14 @@ Keywords: PHP, HTML, CSS, java script,MYSQL
 ## FEEDBACK
 ![Screenshot (74)](https://github.com/Gajalakshmi75/Complaint-Management-System/assets/126240213/301075c9-90e6-4af3-b089-691557285ed8)
 
+## Conclusion
+This project “COMPLAINT MANAGEMENT SYSTEM, a college/University website” was
+successfully executed by our team to check the end results using own database and it is found that our
+proposed system provides efficient and effective result when compared to existing system. It can be
+accessed through smart phones web and as well as web application to get an opportunity and saves time, resources as well.
+This system aims to provide an efficient and transparent platform for students, faculty, and staff to report and manage complaints,
+ensuring prompt resolution and improved communication.
+
 
 
 
