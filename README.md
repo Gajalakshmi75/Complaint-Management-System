@@ -18,7 +18,7 @@ Keywords: PHP, HTML, CSS, java script,MYSQL
   Hardware Requirements <br>
 • RAM: 4GB above <br>
 • Hard disk: 500 GB above
-
+# RESULTS
 ## HOME PAGE
 ![Screenshot (68)](https://github.com/Gajalakshmi75/Complaint-Management-System/assets/126240213/03b3742b-c4b3-4a74-9af5-c51b92cf5179)
 ## LOGIN PAGE
